@@ -1,0 +1,16 @@
+{
+    "name": "pinyin/pinyin-spell",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "keywords":[
+        "pinyin"
+    ],
+    "authors": [
+        {
+            "name": "zhouheng",
+            "email": "zhouheng.25520.sc@163.com"
+        }
+    ],
+    "require": {}
+}
